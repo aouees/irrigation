@@ -28,4 +28,13 @@
     <td><img src="https://github.com/aouees/irrigation/blob/main/Screenshot_1755088711.png" alt="Image 11" width="200"/></td>
     <td><img src="https://github.com/aouees/irrigation/blob/main/Screenshot_1755088716.png" alt="Image 12" width="200"/></td>
   </tr>
+
+  <thead>
+    <td align="center" colspan="4" > version 3</td>
+  </thead>
+  <tr>
+    <td align="center" colspan="2"><img src="https://github.com/aouees/irrigation/blob/main/Screenshot%20from%202025-08-21%2023-05-29.png" alt="Image 1" width="200"/></td>
+    <td align="center" colspan="2"><img src="https://github.com/aouees/irrigation/blob/main/Screenshot%20from%202025-08-21%2023-05-40.png" alt="Image 2" width="200"/></td>
+
+  </tr>
 </table>
